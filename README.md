@@ -34,8 +34,3 @@ The player gets a maximum of **6 incorrect guesses** to identify the complete wo
 4. Correct guesses reveal the matching letters.
 5. Incorrect guesses reduce your remaining attempts.
 6. Guess the complete word before reaching 6 incorrect attempts to win!
-
-
-## 👨‍💻 Author
-
-Developed as part of my **CodeAlpha Python Programming Internship**.
